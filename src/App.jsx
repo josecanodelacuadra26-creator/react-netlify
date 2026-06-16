@@ -9,6 +9,7 @@ function App() {
       
       <div className="container">
         <h1>Publicacion React en Netlify con github</h1>
+        <h2> me gusta mucho React</h2>
       </div>
     </>
   )
